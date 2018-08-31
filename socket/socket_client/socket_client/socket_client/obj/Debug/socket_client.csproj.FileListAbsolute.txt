@@ -1,0 +1,15 @@
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client.csprojAssemblyReference.cache
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\MainWindow.g.cs
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\App.g.cs
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client_MarkupCompile.cache
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client_MarkupCompile.lref
+E:\wpf\socket\socket_client\socket_client\socket_client\bin\Debug\socket_client.exe.config
+E:\wpf\socket\socket_client\socket_client\socket_client\bin\Debug\socket_client.exe
+E:\wpf\socket\socket_client\socket_client\socket_client\bin\Debug\socket_client.pdb
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\MainWindow.baml
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client.g.resources
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client.Properties.Resources.resources
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client.csproj.GenerateResource.cache
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client.csproj.CoreCompileInputs.cache
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client.exe
+E:\wpf\socket\socket_client\socket_client\socket_client\obj\Debug\socket_client.pdb

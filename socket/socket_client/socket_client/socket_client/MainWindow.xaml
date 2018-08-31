@@ -1,0 +1,28 @@
+﻿<Window x:Class="socket_client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:socket_client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="91*"/>
+            <ColumnDefinition Width="366"/>
+            <ColumnDefinition Width="60*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="59*"/>
+            <RowDefinition Height="11*"/>
+        </Grid.RowDefinitions>
+        <Label Content="服务器IP:" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtServer" Grid.Column="1" HorizontalAlignment="Stretch" TextWrapping="NoWrap" Text="192.168.0.100" VerticalAlignment="Stretch"/>
+        <Button x:Name="btnConnect" Click="btnConnect_Click" Content="连接" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <ListBox x:Name="lsMsg" Grid.ColumnSpan="3" HorizontalAlignment="Stretch" Grid.Row="1" VerticalAlignment="Stretch" />
+        <Label Content="发送信息" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="2"/>
+        <TextBox x:Name="txtMsg" Grid.Column="1" HorizontalAlignment="Stretch" TextWrapping="NoWrap" Text="" VerticalAlignment="Stretch" Grid.Row="2"/>
+        <Button x:Name="btnSend" Click="btnSend_Click" Content="发送" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="2"/>
+    </Grid>
+</Window>

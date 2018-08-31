@@ -1,0 +1,14 @@
+E:\wpf\socket\socket_server\socket_server\bin\Release\socket_server.exe.config
+E:\wpf\socket\socket_server\socket_server\bin\Release\socket_server.exe
+E:\wpf\socket\socket_server\socket_server\bin\Release\socket_server.pdb
+E:\wpf\socket\socket_server\socket_server\obj\Release\MainWindow.g.cs
+E:\wpf\socket\socket_server\socket_server\obj\Release\App.g.cs
+E:\wpf\socket\socket_server\socket_server\obj\Release\socket_server_MarkupCompile.cache
+E:\wpf\socket\socket_server\socket_server\obj\Release\socket_server_MarkupCompile.lref
+E:\wpf\socket\socket_server\socket_server\obj\Release\MainWindow.baml
+E:\wpf\socket\socket_server\socket_server\obj\Release\socket_server.g.resources
+E:\wpf\socket\socket_server\socket_server\obj\Release\socket_server.Properties.Resources.resources
+E:\wpf\socket\socket_server\socket_server\obj\Release\socket_server.csproj.GenerateResource.cache
+E:\wpf\socket\socket_server\socket_server\obj\Release\socket_server.csproj.CoreCompileInputs.cache
+E:\wpf\socket\socket_server\socket_server\obj\Release\socket_server.exe
+E:\wpf\socket\socket_server\socket_server\obj\Release\socket_server.pdb
